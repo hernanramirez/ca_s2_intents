@@ -5,5 +5,5 @@ nacimiento se debe se debe dar un click sobre el EditView para que aparezca el p
 
 
 ![Formulario inicial](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/form_inicial.png)
-![Formulario con calendario](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/calendario.png)
+![Formulario con calendario](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/calendar.png)
 ![Confirmar](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/confirmar.png)
