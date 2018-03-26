@@ -4,6 +4,6 @@ Se realiza la asigancion con 2 formularios. Se tima en cuanta que para colocar l
 nacimiento se debe se debe dar un click sobre el EditView para que aparezca el picker
 
 
-![Formulario inicial](hernanramire.github.com/ca_s2_intents/docs/form_inicial.png)
-![Formulario con calendario](hernanramire.github.com/ca_s2_intents/docs/calendario.png)
-![Confirmar](hernanramire.github.com/ca_s2_intents/docs/confirmar.png)
+![Formulario inicial](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/form_inicial.png)
+![Formulario con calendario](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/calendario.png)
+![Confirmar](https://raw.githubusercontent.com/hernanramirez/ca_s2_intents/master/docs/img/confirmar.png)
